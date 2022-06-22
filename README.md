@@ -9,6 +9,13 @@
 <li> 💞️ I’m looking to collaborate on web and mobile applications projects. </li>
 <li> 🎮 I love playing videogames, watching TV Shows, Movies & Sports, listening to music, reading, exercising, and hanging out with my friends & family. </li>
 <li> 📫 How to reach me: A01232528@tec.mx </li>
+<br></br>
+
+```
+Code = [Python, C++, HTML5, CSS3, JavaScript, Matlab]
+Tools = [Angular, Unity, Azure, Git, SQL, Node]
+Interests = [Data Science, AI, Cybersecurity, Cloud Computing, Networking, Structures & Algorithms, IOT, Databases, Frontend, Backend]
+```
 
 <!---
 A01232528-JorgeMaa/A01232528-JorgeMaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
