@@ -2,8 +2,8 @@
 
 
 
-<p> About me: </p>
-<li> 👋 Hi, I’m Jorge Armando Maa Silerios </li>
+<h5> About me: </h5>
+<li> 👋 Hi, I’m Jorge Armando Maa Silerio. </li>
 <li> 👀 I’m interested in programming & learning new things. </li>
 <li> 🌱 I’m currently learning more about algorithms and web development. </li>
 <li> 💞️ I’m looking to collaborate on web and mobile applications projects. </li>
