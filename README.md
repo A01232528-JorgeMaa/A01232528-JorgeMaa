@@ -1,5 +1,5 @@
 <h1> Hello Coders! ✌🏻</h1>
-![Banner-JorgeMaa](BannerPortafolioGit-JorgeMaa.png)
+![Banner-JorgeMaa](BannerPortafolioGit-JorgeMaa.jpg)
 <h3> I'm studying Computer Science & Technology Engineering at <a href="https://tec.mx/es">Tec de Monterrey, campus Monterrey.</a></h3>
 <h4> About me: </h4>
 <li> 👋 Hi, I’m Jorge Armando Maa Silerio. </li>
