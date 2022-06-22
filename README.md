@@ -1,7 +1,7 @@
 <h1> Hello Coders! ✌🏻</h1>
 
 
-
+<p> I'm studying Computer Science & Technology Engineering at <a href="https://tec.mx/es" >Tec de Monterrey, campus Monterrey.</a> </p>
 <h5> About me: </h5>
 <li> 👋 Hi, I’m Jorge Armando Maa Silerio. </li>
 <li> 👀 I’m interested in programming & learning new things. </li>
