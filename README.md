@@ -1,5 +1,5 @@
 <h1> Hello Coders! ✌🏻</h1>
-![BannerPortafolioGit-JorgeMaa](https://user-images.githubusercontent.com/73493121/175062268-11c487a0-a70f-42cc-b4fe-e1e0e9c03767.png)
+<img src="BannerPortafolioGit2-JorgeMaa.png">
 
 <h3> I'm studying Computer Science & Technology Engineering at <a href="https://tec.mx/es">Tec de Monterrey, campus Monterrey.</a></h3>
 <h4> About me: </h4>
